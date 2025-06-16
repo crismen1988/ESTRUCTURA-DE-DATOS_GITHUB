@@ -19,10 +19,11 @@ namespace RegistroEstudiantes
             Console.WriteLine("Nombres: " + Nombres);
             Console.WriteLine("Apellidos: " + Apellidos);
             Console.WriteLine("Dirección: " + Direccion);
-
+            // Mostrar los teléfonos ingresados
             Console.WriteLine("Teléfonos:");
             for (int i = 0; i < Telefonos.Length; i++)
             {
+                // Verifica si el teléfono ha sido ingresado
                 Console.WriteLine($"Teléfono {i + 1}: {Telefonos[i]}");
             }
         }
@@ -32,6 +33,7 @@ namespace RegistroEstudiantes
     {
         static void Main(string[] args)
         {
+            // Programa principal para registrar un estudiante
             Estudiante estudiante = new Estudiante();
 
             Console.WriteLine("Ingrese los datos del estudiante:");
