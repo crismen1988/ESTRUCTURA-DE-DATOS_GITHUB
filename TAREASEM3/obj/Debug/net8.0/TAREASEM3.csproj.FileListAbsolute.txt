@@ -1,0 +1,14 @@
+C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM3\bin\Debug\net8.0\TAREASEM3.exe
+C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM3\bin\Debug\net8.0\TAREASEM3.deps.json
+C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM3\bin\Debug\net8.0\TAREASEM3.runtimeconfig.json
+C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM3\bin\Debug\net8.0\TAREASEM3.dll
+C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM3\bin\Debug\net8.0\TAREASEM3.pdb
+C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM3\obj\Debug\net8.0\TAREASEM3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM3\obj\Debug\net8.0\TAREASEM3.AssemblyInfoInputs.cache
+C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM3\obj\Debug\net8.0\TAREASEM3.AssemblyInfo.cs
+C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM3\obj\Debug\net8.0\TAREASEM3.csproj.CoreCompileInputs.cache
+C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM3\obj\Debug\net8.0\TAREASEM3.dll
+C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM3\obj\Debug\net8.0\refint\TAREASEM3.dll
+C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM3\obj\Debug\net8.0\TAREASEM3.pdb
+C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM3\obj\Debug\net8.0\TAREASEM3.genruntimeconfig.cache
+C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM3\obj\Debug\net8.0\ref\TAREASEM3.dll
