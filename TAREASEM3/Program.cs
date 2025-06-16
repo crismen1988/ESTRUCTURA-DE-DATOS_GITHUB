@@ -59,7 +59,7 @@ namespace RegistroEstudiantes
                     Console.Write($"Teléfono {i + 1} (10 dígitos, solo números): ");
                     telefono = Console.ReadLine();
 
-                    // Verifica si el número tiene exactamente 10 dígitos y son todos números
+                    // Verifica si el número tiene exactamente 10 dígitos y son todos números.
                     if (telefono.Length == 10 && long.TryParse(telefono, out _))
                     {
                         // if (telefono.StartsWith("09"))
