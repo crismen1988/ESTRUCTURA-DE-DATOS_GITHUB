@@ -62,7 +62,7 @@ namespace RegistroEstudiantes
                     // Verifica si el número tiene exactamente 10 dígitos y son todos números.
                     if (telefono.Length == 10 && long.TryParse(telefono, out _))
                     {
-                        // if (telefono.StartsWith("09"))
+                        // Si es válido, se marca como tal
                         valido = true;
                     }
                     else
