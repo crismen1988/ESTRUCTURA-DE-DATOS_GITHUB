@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "YhCR1D2WAFottoMfCge5AlLWX705uVk8fXxPRqFdDX2si5CeX3VA5a/uMShYoQKKkeK0kKVTvH4ky0OAKkjrcw==",
+  "dgSpecHash": "Gj2HSZfIjIg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\crismen\\Documents\\ESTRUCTURA DE DATOS_GITHUB\\TAREASEM2\\TAREASEM2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\crismen\\Documents\\GitHub\\ESTRUCTURA-DE-DATOS_GITHUB\\TAREASEM2\\TAREASEM2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crismen\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\crismen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\crismen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\crismen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.17\\microsoft.netcore.app.host.win-x64.8.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

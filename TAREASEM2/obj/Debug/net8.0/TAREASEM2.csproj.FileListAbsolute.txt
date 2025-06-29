@@ -12,3 +12,18 @@ C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM2\obj\Debug\net8.0
 C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM2\obj\Debug\net8.0\TAREASEM2.pdb
 C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM2\obj\Debug\net8.0\TAREASEM2.genruntimeconfig.cache
 C:\Users\crismen\Documents\ESTRUCTURA DE DATOS_GITHUB\TAREASEM2\obj\Debug\net8.0\ref\TAREASEM2.dll
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM2\bin\Debug\net8.0\TAREASEM2.exe
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM2\bin\Debug\net8.0\TAREASEM2.deps.json
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM2\bin\Debug\net8.0\TAREASEM2.runtimeconfig.json
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM2\bin\Debug\net8.0\TAREASEM2.dll
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM2\bin\Debug\net8.0\TAREASEM2.pdb
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM2\obj\Debug\net8.0\TAREASEM2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM2\obj\Debug\net8.0\TAREASEM2.AssemblyInfoInputs.cache
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM2\obj\Debug\net8.0\TAREASEM2.AssemblyInfo.cs
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM2\obj\Debug\net8.0\TAREASEM2.csproj.CoreCompileInputs.cache
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM2\obj\Debug\net8.0\TAREASEM2.sourcelink.json
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM2\obj\Debug\net8.0\TAREASEM2.dll
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM2\obj\Debug\net8.0\refint\TAREASEM2.dll
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM2\obj\Debug\net8.0\TAREASEM2.pdb
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM2\obj\Debug\net8.0\TAREASEM2.genruntimeconfig.cache
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM2\obj\Debug\net8.0\ref\TAREASEM2.dll
