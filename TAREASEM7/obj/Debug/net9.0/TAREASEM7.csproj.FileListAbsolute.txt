@@ -1,0 +1,15 @@
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM7\bin\Debug\net9.0\TAREASEM7.exe
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM7\bin\Debug\net9.0\TAREASEM7.deps.json
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM7\bin\Debug\net9.0\TAREASEM7.runtimeconfig.json
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM7\bin\Debug\net9.0\TAREASEM7.dll
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM7\bin\Debug\net9.0\TAREASEM7.pdb
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM7\obj\Debug\net9.0\TAREASEM7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM7\obj\Debug\net9.0\TAREASEM7.AssemblyInfoInputs.cache
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM7\obj\Debug\net9.0\TAREASEM7.AssemblyInfo.cs
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM7\obj\Debug\net9.0\TAREASEM7.csproj.CoreCompileInputs.cache
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM7\obj\Debug\net9.0\TAREASEM7.sourcelink.json
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM7\obj\Debug\net9.0\TAREASEM7.dll
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM7\obj\Debug\net9.0\refint\TAREASEM7.dll
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM7\obj\Debug\net9.0\TAREASEM7.pdb
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM7\obj\Debug\net9.0\TAREASEM7.genruntimeconfig.cache
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM7\obj\Debug\net9.0\ref\TAREASEM7.dll

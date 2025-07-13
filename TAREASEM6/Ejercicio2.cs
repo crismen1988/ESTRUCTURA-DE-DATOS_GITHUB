@@ -274,7 +274,7 @@ class Ejercicio2
                 Console.WriteLine("\nPresione una tecla para continuar...");
                 Console.ReadKey();
             }
-        // Repite el bucle hasta que el usuario seleccione la opción de salir
+            // Repite el bucle hasta que el usuario seleccione la opción de salir
         } while (opcion != 6);
     }
 }
