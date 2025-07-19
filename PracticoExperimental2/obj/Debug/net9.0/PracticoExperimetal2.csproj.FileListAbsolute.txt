@@ -1,0 +1,15 @@
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticoExperimental2\bin\Debug\net9.0\PracticoExperimetal2.exe
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticoExperimental2\bin\Debug\net9.0\PracticoExperimetal2.deps.json
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticoExperimental2\bin\Debug\net9.0\PracticoExperimetal2.runtimeconfig.json
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticoExperimental2\bin\Debug\net9.0\PracticoExperimetal2.dll
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticoExperimental2\bin\Debug\net9.0\PracticoExperimetal2.pdb
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimetal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimetal2.AssemblyInfoInputs.cache
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimetal2.AssemblyInfo.cs
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimetal2.csproj.CoreCompileInputs.cache
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimetal2.sourcelink.json
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimetal2.dll
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticoExperimental2\obj\Debug\net9.0\refint\PracticoExperimetal2.dll
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimetal2.pdb
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticoExperimental2\obj\Debug\net9.0\PracticoExperimetal2.genruntimeconfig.cache
+C:\Users\crismen\Documents\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticoExperimental2\obj\Debug\net9.0\ref\PracticoExperimetal2.dll
