@@ -40,7 +40,7 @@ namespace VacunacionCOVID
             conjuntoAstraZeneca = GenerarVacunados();
         }
 
-        // Generar 500 ciudadanos
+        // Generamos 500 ciudadanos
         private void GenerarCiudadanos()
         {
             // Creamos los 500 ciudadanos
@@ -51,7 +51,7 @@ namespace VacunacionCOVID
             }
         }
 
-        // Generar vacunados de forma aleatoria (75)
+        // Generamos vacunados de forma aleatoria (75)
         private HashSet<string> GenerarVacunados()
         {
             // Creamos un conjunto para los vacunados
