@@ -1,0 +1,15 @@
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM11\bin\Debug\net9.0\TAREASEM11.exe
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM11\bin\Debug\net9.0\TAREASEM11.deps.json
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM11\bin\Debug\net9.0\TAREASEM11.runtimeconfig.json
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM11\bin\Debug\net9.0\TAREASEM11.dll
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM11\bin\Debug\net9.0\TAREASEM11.pdb
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM11\obj\Debug\net9.0\TAREASEM11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM11\obj\Debug\net9.0\TAREASEM11.AssemblyInfoInputs.cache
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM11\obj\Debug\net9.0\TAREASEM11.AssemblyInfo.cs
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM11\obj\Debug\net9.0\TAREASEM11.csproj.CoreCompileInputs.cache
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM11\obj\Debug\net9.0\TAREASEM11.sourcelink.json
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM11\obj\Debug\net9.0\TAREASEM11.dll
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM11\obj\Debug\net9.0\refint\TAREASEM11.dll
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM11\obj\Debug\net9.0\TAREASEM11.pdb
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM11\obj\Debug\net9.0\TAREASEM11.genruntimeconfig.cache
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\TAREASEM11\obj\Debug\net9.0\ref\TAREASEM11.dll
