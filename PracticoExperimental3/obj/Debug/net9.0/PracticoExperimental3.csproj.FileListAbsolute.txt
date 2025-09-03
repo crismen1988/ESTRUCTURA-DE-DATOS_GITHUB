@@ -1,0 +1,15 @@
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticOExperimental3\bin\Debug\net9.0\PracticoExperimental3.exe
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticOExperimental3\bin\Debug\net9.0\PracticoExperimental3.deps.json
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticOExperimental3\bin\Debug\net9.0\PracticoExperimental3.runtimeconfig.json
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticOExperimental3\bin\Debug\net9.0\PracticoExperimental3.dll
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticOExperimental3\bin\Debug\net9.0\PracticoExperimental3.pdb
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticOExperimental3\obj\Debug\net9.0\PracticoExperimental3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticOExperimental3\obj\Debug\net9.0\PracticoExperimental3.AssemblyInfoInputs.cache
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticOExperimental3\obj\Debug\net9.0\PracticoExperimental3.AssemblyInfo.cs
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticOExperimental3\obj\Debug\net9.0\PracticoExperimental3.csproj.CoreCompileInputs.cache
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticOExperimental3\obj\Debug\net9.0\PracticoExperimental3.sourcelink.json
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticOExperimental3\obj\Debug\net9.0\PracticoExperimental3.dll
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticOExperimental3\obj\Debug\net9.0\refint\PracticoExperimental3.dll
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticOExperimental3\obj\Debug\net9.0\PracticoExperimental3.pdb
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticOExperimental3\obj\Debug\net9.0\PracticoExperimental3.genruntimeconfig.cache
+C:\Users\crismen\OneDrive\Documentos\GitHub\ESTRUCTURA-DE-DATOS_GITHUB\PracticOExperimental3\obj\Debug\net9.0\ref\PracticoExperimental3.dll
