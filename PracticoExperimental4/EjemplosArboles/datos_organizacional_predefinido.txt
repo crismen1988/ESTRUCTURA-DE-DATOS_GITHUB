@@ -1,0 +1,12 @@
+CEO: Director TI, Director Marketing, Director Ventas
+Director TI: Gerente Desarrollo, Gerente Infraestructura
+Director Marketing: Gerente Publicidad, Gerente Investigacion
+Director Ventas: Gerente Regional Norte, Gerente Regional Sur
+Gerente Desarrollo: Team Lead Frontend, Team Lead Backend
+Gerente Infraestructura: Admin Redes, Admin Servidores
+Gerente Publicidad: Especialista SEO, Disenador Grafico
+Gerente Investigacion: Analista Mercado
+Gerente Regional Norte: Vendedor A, Vendedor B
+Gerente Regional Sur: Vendedor C, Vendedor D
+Team Lead Frontend: Desarrollador React, Desarrollador Angular
+Team Lead Backend: Desarrollador C#, Desarrollador Java

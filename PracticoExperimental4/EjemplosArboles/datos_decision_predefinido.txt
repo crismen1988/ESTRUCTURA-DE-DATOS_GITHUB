@@ -1,0 +1,7 @@
+Solicitar Prestamo: Ingresos Altos, Ingresos Bajos
+Ingresos Altos: Buen Credito, Mal Credito
+Ingresos Bajos: Garantia Suficiente, Sin Garantia
+Buen Credito: APROBADO
+Mal Credito: RECHAZADO
+Garantia Suficiente: APROBADO con Garantia
+Sin Garantia: RECHAZADO
